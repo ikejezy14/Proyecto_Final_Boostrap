@@ -14,11 +14,9 @@
     margin-top:15%;
 }
 
-
-
 .principal-header{
     position: relative;
-    background-image: url(/img/background.jpg);
+    background-image:url(../img/background.jpg);
     background-size: cover;
     min-height: 600px;
     
